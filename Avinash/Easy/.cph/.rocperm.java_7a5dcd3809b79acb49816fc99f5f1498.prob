@@ -1,0 +1,1 @@
+{"name":"Local: rocperm","url":"a:\\coding\\competitive coding\\competitive coding\\Avinash\\Easy\\rocperm.java","tests":[{"id":1611766058239,"input":"1\n4\n3 2 4 1","output":"1 2 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\coding\\competitive coding\\competitive coding\\Avinash\\Easy\\rocperm.java","group":"local","local":true}
