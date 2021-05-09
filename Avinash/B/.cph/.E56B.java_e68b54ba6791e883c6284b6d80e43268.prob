@@ -1,0 +1,1 @@
+{"name":"Local: E56B","url":"a:\\coding\\competitive coding\\competitive coding\\Avinash\\B\\E56B.java","tests":[{"id":1619065643276,"input":"3\naa\nabacaba\nxdd","output":"-1\nabaacba\nxdd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\coding\\competitive coding\\competitive coding\\Avinash\\B\\E56B.java","group":"local","local":true}
