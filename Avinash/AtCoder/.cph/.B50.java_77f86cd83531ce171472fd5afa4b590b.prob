@@ -1,0 +1,1 @@
+{"name":"Local: B50","url":"a:\\coding\\competitive coding\\competitive coding\\Avinash\\AtCoder\\B50.java","tests":[{"id":1617190697011,"input":"5\n7 2 3 8 5\n3\n4 2\n1 7\n4 13","output":"19\n25\n30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\coding\\competitive coding\\competitive coding\\Avinash\\AtCoder\\B50.java","group":"local","local":true}

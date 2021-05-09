@@ -1,0 +1,1 @@
+{"name":"Local: playoff","url":"a:\\coding\\competitive coding\\competitive coding\\Avinash\\A\\playoff.cpp","tests":[{"id":1619850071201,"input":"2\n4 2 2 1\n4 1 2 3\n4 1 1 1\n4 4 4 4 ","output":"3\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\coding\\competitive coding\\competitive coding\\Avinash\\A\\playoff.cpp","group":"local","local":true}
